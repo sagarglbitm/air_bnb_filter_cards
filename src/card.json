@@ -1,0 +1,315 @@
+[
+    {
+      "rating": 5,
+      "desc": "Beach and Sunset Views",
+      "imgSrc": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
+        "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
+        "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg?resize=1024%2C683"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      },
+      "price": 20000,
+      "checkInDate": "2023-11-15",
+      "checkOutDate": "2023-05-20",
+      "title": "Villa",
+      "location": "india"
+    },
+    {
+      "rating": 4,
+      "desc": "Cats castle",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/b00c1db4-b933-4c7f-a105-53991f779321.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/79467ef9-c323-448e-8c4b-f240793eff81.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8aefd5b1-fe0b-4bb4-adfc-06045df669bb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/15bc740b-aeb5-44d0-9feb-b79aa9591b61.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 1,
+        "children": 4,
+        "infants":1,
+        "pets": 2
+      },
+      "price": 30000,
+      "checkInDate": "2023-05-25",
+      "checkOutDate": "2023-05-30",
+      "title": "Cardross, UK",
+      "location": "uk"
+    },
+    {
+      "rating": 4,
+      "desc": "Tiny cabin on farm",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-711637451439857121/original/ede47e37-5a0a-400b-8124-6a36fb3eaa90.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-711637451439857121/original/d29b80ba-7be1-4cd9-b52d-bfce76a74cb5.jpeg?im_w=720"
+      ],
+      "guests": {
+        "adults": 1,
+        "children": 4,
+        "infants":2,
+        "pets": 3
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Farm stay in Fintry",
+      "location": "uk"
+    },
+    {
+      "rating": 4,
+      "desc": "Beautiful sun facing house",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/2d096581-a317-4553-a83a-6f5f543ee42c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/09781f63-bd4f-4f4b-a8eb-fa32538a0b40.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/eaa7addf-242c-47ec-936f-b923000f4677.jpeg?im_w=720",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 1,
+        "infants":2,
+        "pets": 3
+      },
+      "price": 20000,
+      "checkInDate": "2023-05-28",
+      "checkOutDate": "2023-06-03",
+      "title": "Flat in stavanger",
+      "location": "europe"
+    },
+    {
+      "rating": 4,
+      "desc": "Stylish beach apartment",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1006357571946494820/original/d6bfcdee-534f-4baf-bc6f-a3713cc89e31.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1006357571946494820/original/435a1d50-c06d-4955-b193-21b48661c8a8.jpeg?im_w=720",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 1,
+        "infants":5,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Flat in Alboraria",
+      "location": "europe"
+    },
+    {
+      "rating": 4,
+      "desc": "Beach and Sunset Views",
+      "imgSrc": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+      ],
+      "guests": {
+        "adults": 1,
+        "children": 4,
+        "infants":3,
+        "pets": 3
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Hotel 3",
+      "location":"canada"
+    },
+    {
+      "rating": 4,
+      "desc": "Cozy mezzanine tiny villa",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-869293644419339012/original/d1789b0b-a2aa-4dee-ba23-ae98ee9c904f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-869293644419339012/original/365781bb-a2dc-48d7-ac55-96d085498ba9.jpeg?im_w=720"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 3,
+        "infants":1,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Tiny home in kediri",
+      "location": "southeast-asia"
+    },
+    {
+      "rating": 4,
+      "desc": "Large villa with pool",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49666609/original/853f8b21-430d-4b5c-8e7c-13447f384ac4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49666609/original/dd4b88a7-3927-4439-9676-dd2740b86217.jpeg?im_w=720"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 1,
+        "infants":2,
+        "pets": 1
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Villa in kuta",
+      "location": "southeast-asia"
+    },
+    {
+      "rating": 4,
+      "desc": "Fully furnished apartment",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/99f4d83b-7de8-467a-be43-4a5ddd184b24.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/1a2cd065-f0f7-475b-8f6e-2edafe503cc2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/e6bfdcec-ec38-41a8-ba08-59254454d877.jpeg?im_w=720"
+      ],
+      "guests": {
+        "adults": 1,
+        "children": 1,
+        "infants":1,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Flat in calgary",
+      "location": "canada"
+    },
+    {
+      "rating": 4,
+      "desc": "Hambrook point cottage",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/036efbd7-0d59-41a8-a243-9f64032398bc.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1cfbf299-d0ba-4b4e-ab41-7f682caa362c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/322b43a4-c3d7-40bb-b01d-0ad16a3d5872.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 2,
+        "infants":2,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-21",
+      "title": "Cottage in renous",
+      "location": "canada"
+    },
+    {
+      "rating": 4,
+      "desc": "Beautiful garden and luxurious",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-2359112/original/75374b28-6673-42c1-94e2-b960065bb8e0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2ba1c34b-d0b5-4d5b-a84a-30aa33d86ec4.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 3,
+        "infants":3,
+        "pets": 1
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Room in gressan",
+      "location": "italy"
+    },
+    {
+      "rating": 4,
+      "desc": "A terrace by the sea",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/2349d92e-6368-4e8b-ab83-69170db5de62.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9bc8a451-8c24-4a0f-8aef-c4e57319b2eb.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 2,
+        "children": 2,
+        "infants":2,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Flat in morcone",
+      "location": "italy"
+    },
+    {
+      "rating": 4,
+      "desc": "Pool and super large farm house",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-689564906939057902/original/186fc2ea-575f-40a5-bc26-1954c9b62ca0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-689564906939057902/original/7e32b95a-f1f0-4b0a-93e5-c2e1af0ac285.jpeg?im_w=720"
+      ],
+      "guests": {
+        "adults": 5,
+        "children": 2,
+        "infants":2,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Gurugram, India",
+      "location": "india"
+    },
+    {
+      "rating": 4,
+      "desc": "Greenery all around",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/41d8a0ea-41f5-49d8-a852-5b68d577bd6d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e20bbe11-ac45-426d-8b99-f6b5cf80d76d.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 2,
+        "children": 6,
+        "infants":2,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20",
+      "title": "Solan, India",
+      "location": "india"
+    },
+    {
+      "rating": 4,
+      "desc": "Greenery all around",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/a7518ff8-41ae-482e-b489-9854e5af95cb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b241540b-4264-4a79-920b-ecf2b43dfa25.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 4,
+        "children": 4,
+        "infants":4,
+        "pets": 2
+      },
+      "price": 45000,
+      "checkInDate": "2023-11-10",
+      "checkOutDate": "2023-11-15",
+      "title": "Kasol, India",
+      "location": "india"
+    },
+    {
+      "rating": 4,
+      "desc": "Greenery all around",
+      "imgSrc": [
+        "https://a0.muscache.com/im/pictures/2a0f3307-676e-49cd-b980-02b5905ccbe2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c7393c4f-bf0e-4986-95fb-b3e221a801c5.jpg?im_w=720"
+      ],
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":4,
+        "pets": 4
+      },
+      "price": 45000,
+      "checkInDate": "2023-11-10",
+      "checkOutDate": "2023-11-15",
+      "title": "Patiala, India",
+      "location": "india"
+    }
+  ]
